@@ -1,0 +1,30 @@
+body {
+    background-image: url(/Restaran.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #fff;
+}
+
+.yigirma {
+    color: blue;
+}
+
+.ming {
+    color: red;
+}
+
+.box {
+    width: 400px;
+    border: 5px solid red;
+    border-radius: 15px;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.video {
+  margin-top: 50px;
+  margin-left: 400px;
+}
